@@ -1,233 +1,337 @@
-[01Dec2024 04:06:35.221] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[01Dec2024 04:06:35.226] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[01Dec2024 04:06:35.846] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/miniature-octo-spork/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[01Dec2024 04:06:36.256] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miniature-octo-spork/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
-[01Dec2024 04:06:36.258] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miniature-octo-spork/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[01Dec2024 04:06:36.261] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miniature-octo-spork/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[01Dec2024 04:06:36.264] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miniature-octo-spork/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[01Dec2024 04:06:36.445] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[01Dec2024 04:06:36.447] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[01Dec2024 04:06:39.109] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[01Dec2024 04:06:39.315] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[01Dec2024 04:06:39.318] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[01Dec2024 04:06:40.127] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[01Dec2024 04:06:40.158] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[01Dec2024 04:06:40.394] [main/WARN] [mixin/]: Error loading class: com/min01/archaeology/item/BrushItem (java.lang.ClassNotFoundException: com.min01.archaeology.item.BrushItem)
-[01Dec2024 04:06:40.395] [main/WARN] [mixin/]: @Mixin target com.min01.archaeology.item.BrushItem was not found cataclysm.mixins.json:BrushItemMixin
-[01Dec2024 04:06:40.973] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[01Dec2024 04:06:44.493] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[01Dec2024 04:06:44.494] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[01Dec2024 04:06:44.502] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[01Dec2024 04:06:44.503] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[01Dec2024 04:06:45.662] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[01Dec2024 04:06:48.002] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod mutantmonsters
-[01Dec2024 04:06:49.024] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
-[01Dec2024 04:06:49.025] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
-[01Dec2024 04:06:49.429] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[01Dec2024 04:06:50.126] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[01Dec2024 04:06:50.126] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
-[01Dec2024 04:06:50.128] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
-[01Dec2024 04:06:50.243] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[01Dec2024 04:06:50.482] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[01Dec2024 04:06:50.488] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
-[01Dec2024 04:06:50.633] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/miniature-octo-spork/servidor_minecraft/config/illageandspillage-client.toml
-[01Dec2024 04:06:50.634] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/miniature-octo-spork/servidor_minecraft/config/illageandspillage-client.toml
-[01Dec2024 04:06:50.635] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/miniature-octo-spork/servidor_minecraft/config/illageandspillage-client.toml
-[01Dec2024 04:06:50.635] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/miniature-octo-spork/servidor_minecraft/config/illageandspillage-common.toml
-[01Dec2024 04:06:50.636] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/miniature-octo-spork/servidor_minecraft/config/illageandspillage-common.toml
-[01Dec2024 04:06:50.637] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/miniature-octo-spork/servidor_minecraft/config/illageandspillage-common.toml
-[01Dec2024 04:06:50.646] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[01Dec2024 04:06:56.086] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[01Dec2024 04:06:56.588] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[01Dec2024 04:06:56.758] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[01Dec2024 04:06:56.886] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[01Dec2024 04:06:56.891] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[01Dec2024 04:06:57.015] [modloading-worker-0/INFO] [com.blocklegend001.onlyhammersandexcavators.OnlyHammersAndExcavators/]: Mod Loaded
-[01Dec2024 04:06:57.016] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[01Dec2024 04:06:57.117] [modloading-worker-0/INFO] [com.accbdd.simplevoiceradio.SimpleVoiceRadio/]: Setting up Simple Voice Radio
-[01Dec2024 04:06:57.128] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[01Dec2024 04:06:57.139] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[01Dec2024 04:06:57.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[01Dec2024 04:06:57.164] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[01Dec2024 04:06:57.165] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[01Dec2024 04:06:57.196] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[01Dec2024 04:06:57.201] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'simplevoiceradio'
-[01Dec2024 04:06:57.250] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[01Dec2024 04:06:57.406] [Thread-2/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[01Dec2024 04:06:57.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.5 Target: null
-[01Dec2024 04:06:57.681] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[01Dec2024 04:06:57.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 4.0.6 Target: null
-[01Dec2024 04:06:57.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
-[01Dec2024 04:06:57.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.7 Target: null
-[01Dec2024 04:06:57.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[01Dec2024 04:06:57.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.40 Target: null
-[01Dec2024 04:06:57.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[01Dec2024 04:06:57.727] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
-[01Dec2024 04:06:57.728] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
-[01Dec2024 04:06:57.729] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
-[01Dec2024 04:06:57.893] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[01Dec2024 04:06:57.896] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[01Dec2024 04:06:57.899] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[01Dec2024 04:06:57.902] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[01Dec2024 04:06:57.903] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[01Dec2024 04:06:57.987] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
-[01Dec2024 04:06:57.995] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[01Dec2024 04:06:58.014] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[01Dec2024 04:06:58.021] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[01Dec2024 04:06:58.023] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
-[01Dec2024 04:06:58.026] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[01Dec2024 04:06:58.037] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[01Dec2024 04:06:58.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.3.0 Target: 43.4.0
-[01Dec2024 04:06:58.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[01Dec2024 04:06:58.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.19.2-2.5.26 Target: null
-[01Dec2024 04:06:58.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[01Dec2024 04:06:58.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
-[01Dec2024 04:06:58.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[01Dec2024 04:06:58.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.3.7 Target: null
-[01Dec2024 04:06:58.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[01Dec2024 04:06:59.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: AHEAD Current: 1.9.5 Target: null
-[01Dec2024 04:06:59.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[01Dec2024 04:06:59.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.4.3 Target: null
-[01Dec2024 04:06:59.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[01Dec2024 04:06:59.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[01Dec2024 04:07:00.173] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01Dec2024 04:07:00.412] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: spartanshields:wooden_basic_shield Expected: 2817 Got: 1444
-[01Dec2024 04:07:01.667] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/miniature-octo-spork/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
-[01Dec2024 04:07:01.667] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/miniature-octo-spork/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
-[01Dec2024 04:07:02.604] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
-[01Dec2024 04:07:02.797] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
-[01Dec2024 04:07:03.047] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
-[01Dec2024 04:07:03.837] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
-[01Dec2024 04:07:04.298] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[01Dec2024 04:07:05.271] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
-[01Dec2024 04:07:05.395] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
-[01Dec2024 04:07:05.492] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
-[01Dec2024 04:07:05.518] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 20 recipes
-[01Dec2024 04:07:05.519] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
-[01Dec2024 04:07:05.759] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table cataclysm:archaeology/cursed_pyramid
-com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft:archer_pottery_sherd'
-	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
-	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.3.0-universal.jar%23208!/:?]
-	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
-	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23203!/:?]
-	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.3.0.jar%2367!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[01Dec2024 04:07:05.842] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[01Dec2024 04:07:05.857] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[01Dec2024 04:07:05.938] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[01Dec2024 04:07:06.061] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[01Dec2024 04:07:06.061] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[01Dec2024 04:07:06.061] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[01Dec2024 04:07:06.062] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[01Dec2024 04:07:06.063] [main/INFO] [placebo/]: Registered 0 additional loot tables.
-[01Dec2024 04:07:06.078] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 1 modifier groups
-[01Dec2024 04:07:06.138] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[01Dec2024 04:07:06.149] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[01Dec2024 04:07:06.265] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3323 advancements
-[01Dec2024 04:07:06.270] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[01Dec2024 04:07:06.287] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Structure Repaletter Manager has loaded 0 repaletters
-[01Dec2024 04:07:06.303] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Modded Biome Slice Manager has loaded 1 slices
-[01Dec2024 04:07:06.304] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
-[01Dec2024 04:07:06.320] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
-[01Dec2024 04:07:06.350] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 12 convertibles
-[01Dec2024 04:07:07.270] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 4.449644ms
-[01Dec2024 04:07:07.271] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[01Dec2024 04:07:07.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[01Dec2024 04:07:07.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01Dec2024 04:07:07.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01Dec2024 04:07:07.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01Dec2024 04:07:07.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[01Dec2024 04:07:07.548] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[01Dec2024 04:07:07.672] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01Dec2024 04:07:07.673] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[01Dec2024 04:07:07.673] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01Dec2024 04:07:07.673] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[01Dec2024 04:07:07.840] [Server thread/INFO] [Framework/]: Loading server configs...
-[01Dec2024 04:07:07.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[01Dec2024 04:07:08.495] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
-[01Dec2024 04:07:08.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01Dec2024 04:07:14.614] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.615] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.616] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.616] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.617] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.617] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.619] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.620] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.621] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.621] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.622] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.623] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:14.778] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 04:07:15.278] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[01Dec2024 04:07:15.778] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[01Dec2024 04:07:16.268] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7491 ms
-[01Dec2024 04:07:16.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.587s)! For help, type "help"
-[01Dec2024 04:07:16.324] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[01Dec2024 04:07:16.365] [Server thread/INFO] [net.stardustlabs.structory.Structory/]: Thanks for choosing Structory!
-[01Dec2024 04:07:16.368] [Server thread/INFO] [com.accbdd.simplevoiceradio.SimpleVoiceRadio/]: Server starting
-[01Dec2024 04:07:16.373] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[01Dec2024 04:07:16.404] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[01Dec2024 04:07:16.405] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[01Dec2024 04:07:16.405] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[01Dec2024 04:07:16.485] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[01Dec2024 04:07:16.487] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[01Dec2024 04:07:16.488] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[01Dec2024 04:07:16.489] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[01Dec2024 04:07:16.518] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[01Dec2024 04:07:16.533] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01Dec2024 04:07:16.551] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'users-negative.gl.at.ply.gg:1548'
-[01Dec2024 04:07:16.566] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1548
-[01Dec2024 04:14:09.862] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@169c2e2e[id=<null>,name=GrPatrixYT,properties={},legacy=false] (/127.101.92.249:47055) lost connection: Disconnected
+[22:02:51] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[22:02:51] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[22:02:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:02:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[22:02:53] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - AngelChest (13.9.0), AuraSkills (2.2.7), ClearLag (3.2.2), RHLeafDecay (1.21_R1), SimpleTpa (7.4), SkinsRestorer (15.5.1)
+[22:03:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:03:03] [ServerMain/INFO]: Loaded 1290 recipes
+[22:03:04] [ServerMain/INFO]: Loaded 1399 advancements
+[22:03:04] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:03:04] [Server thread/INFO]: Loading properties
+[22:03:04] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[22:03:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:03:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:03:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:03:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[22:03:07] [Server thread/INFO]: Default game type: SURVIVAL
+[22:03:07] [Server thread/INFO]: Generating keypair
+[22:03:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:03:07] [Server thread/INFO]: Using epoll channel type
+[22:03:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:03:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:03:08] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[22:03:08] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[22:03:08] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[22:03:08] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[22:03:08] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.7
+[22:03:08] [Server thread/INFO]: [RHLeafDecay] Loading server plugin RHLeafDecay v1.21_R1
+[22:03:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:03:08] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[22:03:11] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:03:13] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[22:03:15] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:03:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:03:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:03:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:03:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:03:15] [Server thread/INFO]: Preparing level "world"
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:03:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:03:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:03:17] [Server thread/INFO]: Time elapsed: 1689 ms
+[22:03:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:03:18] [Server thread/INFO]: Time elapsed: 755 ms
+[22:03:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:03:18] [Server thread/INFO]: Time elapsed: 455 ms
+[22:03:18] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[22:03:19] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[22:03:19] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[22:03:19] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[22:03:19] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[22:03:19] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[22:03:20] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[22:03:20] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[22:03:20] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[22:03:20] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[22:03:20] [Server thread/INFO]: [ClearLag] Loading modules...
+[22:03:20] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[22:03:20] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[22:03:20] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[22:03:20] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[22:03:20] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[22:03:20] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[22:03:20] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[22:03:20] [Thread-11/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[22:03:20] [Thread-11/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[22:03:20] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[22:03:20] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[22:03:20] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[22:03:20] [Thread-11/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[22:03:20] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[22:03:20] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.7
+[22:03:22] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[22:03:23] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 117 ms
+[22:03:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.1! Trying to find NMS support
+[22:03:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[22:03:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[22:03:23] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[22:03:24] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[22:03:25] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.21_R1
+[22:03:25] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[22:03:25] [Server thread/INFO]: [RHLeafDecay] You are using version 1.21_R1 /w 💕 by X0R3
+[22:03:25] [Server thread/INFO]: [RHLeafDecay] Info:
+[22:03:25] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[22:03:25] [Server thread/INFO]: [spark] Starting background profiler...
+[22:03:25] [Server thread/INFO]: Done preparing level "world" (10.460s)
+[22:03:25] [Server thread/INFO]: Running delayed init tasks
+[22:03:26] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[22:03:26] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[22:03:26] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[22:03:26] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[22:03:27] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:03:27] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[22:03:27] [Server thread/INFO]: Done (37.251s)! For help, type "help"
+[22:03:27] [Server thread/INFO]: Timings Reset
+[22:03:28] [Server thread/INFO]: [AngelChest] ========================================================
+[22:03:28] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[22:03:28] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[22:03:28] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[22:03:28] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[22:03:28] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[22:03:28] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[22:03:28] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[22:03:28] [Server thread/INFO]: [AngelChest] 
+[22:03:28] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[22:03:28] [Server thread/INFO]: [AngelChest] ========================================================
+[22:04:52] [User Authenticator #0/INFO]: UUID of player luispro110224 is 78b4080c-845d-323f-8618-f1d0e4fe510a
+[22:04:54] [Server thread/INFO]: luispro110224 joined the game
+[22:04:54] [Server thread/INFO]: luispro110224[/127.104.189.111:56939] logged in with entity id 36 at ([world]-147.5, 77.0, -288.5)
+[22:05:59] [User Authenticator #1/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[22:06:01] [Server thread/INFO]: GrPatrixYT joined the game
+[22:06:01] [Server thread/INFO]: GrPatrixYT[/127.71.9.185:37385] logged in with entity id 561 at ([world]-644.7176356145975, 90.0625, 58.716411859714945)
+[22:08:32] [User Authenticator #2/INFO]: UUID of player xRoma47x is 8944fc3b-cd50-39c1-a5ea-89e96f123b85
+[22:08:34] [Server thread/INFO]: xRoma47x joined the game
+[22:08:34] [Server thread/INFO]: xRoma47x[/127.74.153.192:59517] logged in with entity id 2091 at ([world]-143.5, 78.0, -284.5)
+[22:09:09] [Async Chat Thread - #0/INFO]: [Not Secure] <luispro110224> patrick
+[22:09:12] [Async Chat Thread - #1/INFO]: [Not Secure] <GrPatrixYT> q
+[22:09:17] [Async Chat Thread - #0/INFO]: [Not Secure] <luispro110224> se perdio el mapa
+[22:09:23] [Async Chat Thread - #0/INFO]: [Not Secure] <luispro110224> xq faltan cosas
+[22:09:33] [Async Chat Thread - #1/INFO]: [Not Secure] <GrPatrixYT> si paso una cosa con la cuenta
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Region file ./world/region/r.-3.-1.mca has an invalid sector at index: 1; sector 2098 is out of bounds
+[22:10:21] [RegionFile I/O Thread #0/ERROR]: Detected invalid header for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca! Recalculating header...
+[22:10:21] [RegionFile I/O Thread #0/ERROR]: Recalculating regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, header gave erroneous offsets & locations
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Corrupt regionfile header detected! Attempting to re-calculate header offsets for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca
+java.lang.Throwable: null
+	at net.minecraft.world.level.chunk.storage.RegionFile.recalculateHeader(RegionFile.java:142) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFile.<init>(RegionFile.java:513) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFile.<init>(RegionFile.java:404) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.moonrise$getRegionFileIfExists(RegionFileStorage.java:101) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.getRegionFile(RegionFileStorage.java:149) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.read(RegionFileStorage.java:218) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.ChunkStorage.read(ChunkStorage.java:186) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ChunkMap.read(ChunkMap.java:588) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.moonrise.patches.chunk_system.io.datacontroller.ChunkDataController.readData(ChunkDataController.java:48) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.moonrise.patches.chunk_system.io.RegionFileIOThread$ChunkDataTask.run(RegionFileIOThread.java:1166) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadedTaskQueue$PrioritisedTask.executeInternal(PrioritisedThreadedTaskQueue.java:351) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadedTaskQueue.executeTask(PrioritisedThreadedTaskQueue.java:118) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.pollTasks(PrioritisedQueueExecutorThread.java:114) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:62) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Backing up regionfile "/workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca" to /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca.2522875035991840787.backup
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Backed up the regionfile to /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca.2522875035991840787.backup
+[22:10:21] [RegionFile I/O Thread #0/INFO]: Starting summary of changes for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (22,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (28,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (28,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (28,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (28,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (28,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (28,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (31,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (31,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (31,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/WARN]: Data for local chunk (31,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca, it will be regenerated
+[22:10:21] [RegionFile I/O Thread #0/INFO]: End of change summary for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca
+[22:10:21] [RegionFile I/O Thread #0/INFO]: Successfully wrote new header to disk for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.-1.mca
+[22:10:42] [Async Chat Thread - #2/INFO]: [Not Secure] <luispro110224> para q sirve la perforacion patrick
+[22:10:48] [Async Chat Thread - #2/INFO]: [Not Secure] <GrPatrixYT> la ballesta
+[22:11:54] [Server thread/INFO]: luispro110224 issued server command: /tpa GrPatrixYT
+[22:11:57] [Server thread/INFO]: GrPatrixYT issued server command: /tpaccept
+[22:12:35] [Server thread/INFO]: xRoma47x issued server command: /tpa GrPatrixYT
+[22:12:37] [Server thread/INFO]: GrPatrixYT issued server command: /tpaccept
