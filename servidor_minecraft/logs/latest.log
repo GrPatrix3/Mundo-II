@@ -213,3 +213,26 @@
 [23:33:14] [Server thread/WARN]: GrPatrixYT moved too quickly! 3.8161709516625706,-21.0,6.887193708628729
 [23:39:25] [Server thread/INFO]: Cheta_YT issued server command: /skill
 [23:39:45] [Server thread/INFO]: GrPatrixYT issued server command: /skill
+[23:42:14] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:42:16] [Server thread/INFO]: Cheta_YT issued server command: /tpaccept
+[23:42:17] [Server thread/INFO]: Cheta_YT issued server command: /tpaccept
+[23:43:58] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:44:02] [Server thread/INFO]: Cheta_YT issued server command: /tpaccept
+[23:44:22] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:44:22] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:44:49] [Server thread/INFO]: xRoma47x has reached the goal [Sky's the Limit]
+[23:45:47] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:45:47] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:45:51] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:45:57] [Server thread/INFO]: Cheta_YT issued server command: /tpaccept
+[23:46:03] [Server thread/INFO]: xRoma47x has made the advancement [The City at the End of the Game]
+[23:46:41] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:46:41] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:47:24] [Server thread/INFO]: Cheta_YT was doomed to fall by GrPatrixYT
+[23:47:29] [Server thread/INFO]: Cheta_YT issued server command: /back
+[23:48:51] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:48:51] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:51:23] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x GrPatrixYT
+[23:51:23] [Server thread/INFO]: [GrPatrixYT: Teleported xRoma47x to GrPatrixYT]
+[23:52:02] [Server thread/INFO]: GrPatrixYT issued server command: /sethome GrPatrixYT
+[23:52:03] [Server thread/INFO]: xRoma47x issued server command: /sethome end

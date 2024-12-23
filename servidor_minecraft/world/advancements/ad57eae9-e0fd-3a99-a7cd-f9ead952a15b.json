@@ -4255,6 +4255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-23 23:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-12-23 23:23:14 +0000"
@@ -4264,6 +4270,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2024-12-23 23:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-23 23:46:16 +0000"
     },
     "done": true
   },
