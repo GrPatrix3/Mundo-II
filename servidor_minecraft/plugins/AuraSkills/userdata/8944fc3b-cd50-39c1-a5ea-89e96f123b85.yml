@@ -14,13 +14,13 @@ skills:
     xp: 1041.2800000000534
   auraskills/mining:
     level: 8
-    xp: 3619.02999999968
+    xp: 4266.5499999996655
   auraskills/fishing:
     level: 7
     xp: 4371.5
   auraskills/defense:
     level: 7
-    xp: 1279.618564975272
+    xp: 1291.018564975272
   auraskills/enchanting:
     level: 4
     xp: 124.19999999999993
@@ -29,14 +29,23 @@ skills:
     xp: 152.0
   auraskills/agility:
     level: 8
-    xp: 2808.1322000000055
+    xp: 2903.8236000000056
   auraskills/fighting:
     level: 11
-    xp: 5621.099999999482
+    xp: 5646.299999999481
 mana: 38.0
 action_bar:
   idle: true
 locale: es
+stat_modifiers:
+  '0':
+    name: mining-stamina
+    stat: auraskills/toughness
+    value: 1.0
+  '1':
+    name: AbilityModifier-EnchantedStrength
+    stat: auraskills/strength
+    value: 1.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -60,6 +69,8 @@ trait_modifiers:
     value: 20.0
 ability_data:
   auraskills/xp_convert:
-    xp: 22.961049468234478
+    xp: 22.772449468234413
   auraskills/first_strike:
-    counter: 102
+    counter: 103
+  auraskills/speed_mine:
+    cooldown: 3124
