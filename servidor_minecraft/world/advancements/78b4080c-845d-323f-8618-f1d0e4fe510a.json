@@ -926,6 +926,7 @@
       "minecraft:cave_spider": "2024-12-17 04:45:22 +0000",
       "minecraft:piglin": "2024-12-14 20:59:54 +0000",
       "minecraft:vindicator": "2024-12-14 04:47:35 +0000",
+      "minecraft:enderman": "2024-12-23 22:24:05 +0000",
       "minecraft:spider": "2024-12-14 03:29:11 +0000",
       "minecraft:vex": "2024-12-14 05:00:32 +0000",
       "minecraft:zombie": "2024-12-14 03:33:26 +0000",
@@ -2434,6 +2435,30 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2024-12-18 00:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-23 22:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-23 22:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-23 22:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-23 22:21:45 +0000"
     },
     "done": true
   },
