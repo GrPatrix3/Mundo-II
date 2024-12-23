@@ -160,3 +160,56 @@
 [23:20:33] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x
 [23:20:33] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to xRoma47x]
 [23:20:54] [Server thread/WARN]: Cheta_YT moved wrongly!
+[23:21:21] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:21:21] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:21:56] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x GrPatrixYT
+[23:21:56] [Server thread/INFO]: [GrPatrixYT: Teleported xRoma47x to GrPatrixYT]
+[23:22:19] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:22:19] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:22:22] [Server thread/INFO]: xRoma47x lost connection: Disconnected
+[23:22:22] [Server thread/INFO]: xRoma47x left the game
+[23:22:22] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[23:22:22] [Server thread/INFO]: GrPatrixYT left the game
+[23:22:22] [Server thread/INFO]: Cheta_YT has made the advancement [The City at the End of the Game]
+[23:22:23] [Server thread/WARN]: Cheta_YT moved wrongly!
+[23:22:32] [User Authenticator #2/INFO]: UUID of player xRoma47x is 8944fc3b-cd50-39c1-a5ea-89e96f123b85
+[23:22:33] [Server thread/INFO]: xRoma47x joined the game
+[23:22:33] [Server thread/INFO]: xRoma47x[/127.74.153.192:39055] logged in with entity id 5656 at ([world_the_end]-978.2674213925924, 58.0, 2012.9751399534541)
+[23:22:42] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:22:43] [Server thread/INFO]: Cheta_YT has made the advancement [Cover Me with Diamonds]
+[23:22:43] [Server thread/INFO]: Cheta_YT has made the advancement [Isn't It Iron Pick]
+[23:22:43] [User Authenticator #2/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[23:22:44] [Server thread/INFO]: GrPatrixYT joined the game
+[23:22:44] [Server thread/INFO]: GrPatrixYT[/127.71.9.185:42659] logged in with entity id 5729 at ([world_the_end]-1103.6664657275874, -3.505936276863738, 2224.9048472595127)
+[23:22:46] [Server thread/INFO]: GrPatrixYT issued server command: /tp cheta_YT
+[23:22:46] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:22:46] [Server thread/INFO]: GrPatrixYT has made the advancement [The City at the End of the Game]
+[23:22:53] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:22:54] [Server thread/INFO]: Cheta_YT has made the advancement [Local Brewery]
+[23:23:05] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:23:32] [Server thread/INFO]: xRoma47x issued server command: /tpa GrPatrixYT
+[23:23:33] [Server thread/INFO]: Cheta_YT issued server command: /tpaccept
+[23:23:34] [Server thread/INFO]: GrPatrixYT issued server command: /tpaccept
+[23:24:03] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:24:03] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:24:18] [Server thread/INFO]: xRoma47x issued server command: /tpa GrPatrixYT
+[23:24:20] [Server thread/INFO]: GrPatrixYT issued server command: /tpaccept
+[23:24:20] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:24:30] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:24:30] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:24:32] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:24:34] [Server thread/INFO]: Cheta_YT issued server command: /tpaccept
+[23:25:20] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:25:20] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:25:57] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:26:10] [Server thread/INFO]: Cheta_YT issued server command: /tpaccept
+[23:26:13] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:26:13] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:26:14] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:26:33] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[23:26:33] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[23:26:38] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[23:26:41] [Server thread/INFO]: Cheta_YT issued server command: /tpaccept
+[23:33:14] [Server thread/WARN]: GrPatrixYT moved too quickly! 3.8161709516625706,-21.0,6.887193708628729
+[23:39:25] [Server thread/INFO]: Cheta_YT issued server command: /skill
+[23:39:45] [Server thread/INFO]: GrPatrixYT issued server command: /skill
