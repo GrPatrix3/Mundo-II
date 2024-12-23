@@ -402,3 +402,19 @@ Reason: Banned by an operator.
 [22:42:25] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
 [22:44:27] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
 [22:44:27] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[22:46:14] [Server thread/INFO]: luispro110224 lost connection: Disconnected
+[22:46:14] [Server thread/INFO]: luispro110224 left the game
+[22:47:45] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[22:47:45] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[22:52:02] [Server thread/INFO]: GrPatrixYT issued server command: /team add
+[22:52:40] [Server thread/INFO]: GrPatrixYT issued server command: /team add PAROCHE
+[22:52:40] [Server thread/INFO]: [GrPatrixYT: Created team [PAROCHE]]
+[22:52:54] [Async Chat Thread - #8/INFO]: [Not Secure] <GrPatrixYT> a
+[22:53:09] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x
+[22:53:09] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to xRoma47x]
+[22:53:57] [Server thread/INFO]: GrPatrixYT has made the advancement [Sneak 100]
+[22:54:07] [Server thread/INFO]: xRoma47x has made the advancement [Sneak 100]
+[22:54:10] [Server thread/INFO]: Cheta_YT issued server command: /tpa xRoma47x
+[22:54:14] [Server thread/INFO]: xRoma47x issued server command: /tpaccept
+[22:54:25] [Server thread/INFO]: Cheta_YT has made the advancement [Sneak 100]
+[22:55:43] [Server thread/WARN]: GrPatrixYT moved too quickly! 0.13215564495567378,0.0,30.065198790293607

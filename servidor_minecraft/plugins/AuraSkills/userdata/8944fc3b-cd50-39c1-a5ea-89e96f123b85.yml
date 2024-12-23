@@ -14,7 +14,7 @@ skills:
     xp: 1041.2800000000534
   auraskills/mining:
     level: 8
-    xp: 4266.5499999996655
+    xp: 5085.069999999582
   auraskills/fishing:
     level: 7
     xp: 4371.5
@@ -29,7 +29,7 @@ skills:
     xp: 152.0
   auraskills/agility:
     level: 8
-    xp: 2903.8236000000056
+    xp: 2986.6508000000053
   auraskills/fighting:
     level: 11
     xp: 5646.299999999481
@@ -69,8 +69,6 @@ trait_modifiers:
     value: 20.0
 ability_data:
   auraskills/xp_convert:
-    xp: 22.772449468234413
+    xp: 24.119649468234442
   auraskills/first_strike:
     counter: 103
-  auraskills/speed_mine:
-    cooldown: 3124

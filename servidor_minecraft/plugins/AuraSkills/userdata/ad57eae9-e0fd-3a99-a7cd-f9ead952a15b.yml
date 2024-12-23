@@ -2,7 +2,7 @@ uuid: ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
 skills:
   auraskills/defense:
     level: 7
-    xp: 305.267274791
+    xp: 340.66727479099995
   auraskills/foraging:
     level: 7
     xp: 3267.200000000133
@@ -20,16 +20,16 @@ skills:
     xp: 2161.5
   auraskills/mining:
     level: 11
-    xp: 1973.3599999942494
+    xp: 2116.1599999942523
   auraskills/agility:
     level: 9
-    xp: 7973.344799999983
+    xp: 8083.577999999982
   auraskills/alchemy:
     level: 3
     xp: 324.0
   auraskills/fighting:
     level: 12
-    xp: 2564.899999999277
+    xp: 2620.7999999992767
   auraskills/farming:
     level: 7
     xp: 2950.4549999999963
@@ -39,9 +39,13 @@ action_bar:
 locale: es
 stat_modifiers:
   '0':
+    name: mining-stamina
+    stat: auraskills/toughness
+    value: 2.0
+  '1':
     name: AbilityModifier-EnchantedStrength
     stat: auraskills/strength
-    value: 1.0
+    value: 2.0
 trait_modifiers:
   '0':
     name: excavation_luck_ability
@@ -65,6 +69,8 @@ trait_modifiers:
     value: 20.0
 ability_data:
   auraskills/xp_convert:
-    xp: 2.265051762469568
+    xp: 22.098251762469562
   auraskills/first_strike:
-    counter: 208
+    counter: 209
+  auraskills/lightning_blade:
+    cooldown: 1509
