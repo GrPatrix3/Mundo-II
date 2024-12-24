@@ -1328,3 +1328,69 @@ Reason: Banned by an operator.
 [01:17:29] [Server thread/INFO]: Cheta_YT was doomed to fall by xRoma47x
 [01:17:34] [Server thread/INFO]: Cheta_YT lost connection: Disconnected
 [01:17:34] [Server thread/INFO]: Cheta_YT left the game
+[01:27:28] [User Authenticator #12/INFO]: UUID of player Cheta_YT is d62f9999-eb73-3833-a101-9c7b04270c86
+[01:27:31] [Server thread/INFO]: Cheta_YT joined the game
+[01:27:31] [Server thread/INFO]: Cheta_YT[/127.173.1.169:52841] logged in with entity id 243057 at ([world_nether]-157.58759799077166, 56.0, -46.841912800990954)
+[01:27:43] [Server thread/INFO]: Cheta_YT issued server command: /back
+[01:27:54] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[01:27:54] [Server thread/INFO]: [Cheta_YT: Set own game mode to Creative Mode]
+[01:28:01] [Server thread/INFO]: Cheta_YT issued server command: /effect give Cheta_YT minecraft:strength
+[01:28:01] [Server thread/INFO]: [Cheta_YT: Applied effect Strength to Cheta_YT]
+[01:28:10] [Server thread/INFO]: Cheta_YT issued server command: /effect give Cheta_YT minecraft:strength infinite 255
+[01:28:10] [Server thread/INFO]: [Cheta_YT: Applied effect Strength to Cheta_YT]
+[01:28:20] [Server thread/INFO]: xRoma47x issued server command: /locate structure minecraft:ancient_city
+[01:28:20] [Server thread/INFO]: Locating element minecraft:ancient_city took 59 ms
+[01:28:26] [Server thread/INFO]: xRoma47x issued server command: /tp @s -3280 ~ -1904
+[01:28:26] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to -3279.500000, 64.870014, -1903.500000]
+[01:28:37] [Server thread/INFO]: Cheta_YT issued server command: /effect give xRoma47x minecraft:night_vision infinite 255
+[01:28:37] [Server thread/INFO]: [Cheta_YT: Applied effect Night Vision to xRoma47x]
+[01:28:48] [Server thread/INFO]: xRoma47x issued server command: /tp @s -3280 ~ -1904
+[01:28:48] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to -3279.500000, 62.000000, -1903.500000]
+[01:29:02] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:02] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:06] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:06] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:08] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:08] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:10] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:10] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:12] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:12] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:14] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:14] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:18] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:18] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:19] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:19] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:22] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:22] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:24] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:24] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:27] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:27] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:29] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:29] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:31] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:31] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:32] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:32] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:34] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:34] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:36] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:36] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:38] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:38] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:40] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:40] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:29:42] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[01:29:42] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[01:30:59] [Server thread/INFO]: Cheta_YT issued server command: /skill
+[01:31:20] [Server thread/INFO]: Cheta_YT issued server command: /tp xRoma47x
+[01:31:20] [Server thread/INFO]: [Cheta_YT: Teleported Cheta_YT to xRoma47x]
+[01:31:51] [Server thread/INFO]: Cheta_YT issued server command: /effect give Cheta_Yt minecraft:night_vision infinite 255
+[01:31:51] [Server thread/INFO]: [Cheta_YT: Applied effect Night Vision to Cheta_YT]
+[01:33:04] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:warden
+[01:33:04] [Server thread/INFO]: [Cheta_YT: Summoned new Warden]
+[01:33:25] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:ender_dragon
+[01:33:25] [Server thread/INFO]: [Cheta_YT: Summoned new Ender Dragon]
+[01:33:52] [Server thread/INFO]: Cheta_YT has made the advancement [Free the End]
