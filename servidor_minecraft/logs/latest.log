@@ -177,3 +177,942 @@
 [00:53:25] [Server thread/INFO]: Villager Villager['Villager'/47976, uuid='e54b9d63-a549-4e24-9dce-ae7cba5eb656', l='ServerLevel[world]', x=-764.93, y=63.00, z=68.70, cpos=[-48, 4], tl=394512, v=true] died, message: 'Villager hit the ground too hard'
 [00:53:26] [Server thread/INFO]: Cheta_YT lost connection: Timed out
 [00:53:26] [Server thread/INFO]: Cheta_YT left the game
+[00:53:31] [Server thread/INFO]: Villager Villager['Villager'/47970, uuid='fd9ed79f-f12d-4142-9e79-2369afb97cee', l='ServerLevel[world]', x=-763.85, y=59.29, z=71.30, cpos=[-48, 4], tl=442065, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:53:31] [Server thread/INFO]: Villager Villager['Villager'/47974, uuid='8f63ea02-9fe8-4add-bddc-66712caabcb6', l='ServerLevel[world]', x=-763.22, y=59.87, z=71.31, cpos=[-48, 4], tl=457816, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:53:31] [Server thread/INFO]: Villager Villager['Villager'/47988, uuid='8a96024c-894d-425a-bad7-04a0ff127139', l='ServerLevel[world]', x=-764.50, y=59.29, z=71.30, cpos=[-48, 4], tl=135477, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:53:34] [Server thread/INFO]: Villager Villager['Villager'/47971, uuid='eeb638ae-56af-4bca-84f8-d4e7a493fee9', l='ServerLevel[world]', x=-763.40, y=59.29, z=71.30, cpos=[-48, 4], tl=387055, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:53:37] [Server thread/INFO]: Villager Villager['Villager'/47985, uuid='846ec6f3-0ec4-42c5-acd2-69f524b3ad92', l='ServerLevel[world]', x=-762.82, y=59.28, z=71.30, cpos=[-48, 4], tl=206603, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:53:45] [User Authenticator #8/INFO]: UUID of player Cheta_YT is d62f9999-eb73-3833-a101-9c7b04270c86
+[00:53:47] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT xRoma47x
+[00:53:47] [Server thread/INFO]: Cheta_YT joined the game
+[00:53:47] [Server thread/INFO]: Cheta_YT[/127.173.1.169:40287] logged in with entity id 210602 at ([world]-652.9108734026499, 139.0373098564779, 33.340706014125765)
+[00:54:10] [Server thread/INFO]: Villager Villager['Villager'/47986, uuid='af663732-e975-4dad-8d96-2d25216dff27', l='ServerLevel[world]', x=-765.70, y=59.00, z=74.66, cpos=[-48, 4], tl=163423, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:54:17] [Server thread/INFO]: Cheta_YT lost connection: Timed out
+[00:54:17] [Server thread/INFO]: Cheta_YT left the game
+[00:54:37] [User Authenticator #8/INFO]: UUID of player Cheta_YT is d62f9999-eb73-3833-a101-9c7b04270c86
+[00:54:40] [Server thread/INFO]: Cheta_YT joined the game
+[00:54:40] [Server thread/INFO]: Cheta_YT[/127.173.1.169:53711] logged in with entity id 219185 at ([world]-630.9025721687336, 72.0, 46.74343915096462)
+[00:54:44] [Async Chat Thread - #2/INFO]: [Not Secure] <GrPatrixYT> capo ta bien? xd
+[00:54:46] [Server thread/INFO]: xRoma47x issued server command: /weather clear
+[00:54:46] [Server thread/INFO]: [xRoma47x: Set the weather to clear]
+[00:54:49] [Server thread/INFO]: Cheta_YT issued server command: /time set day
+[00:54:49] [Server thread/INFO]: [Cheta_YT: Set the time to 1000]
+[00:54:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Cheta_YT> capo
+[00:55:00] [Async Chat Thread - #3/INFO]: [Not Secure] <Cheta_YT> ando con un lag
+[00:55:09] [Async Chat Thread - #3/INFO]: [Not Secure] <GrPatrixYT> xd
+[00:55:10] [Craft Scheduler Thread - 585 - AuraSkills/INFO]: [AuraSkills] Cannot look for updates: Request failed with status code 502
+[00:55:13] [Async Chat Thread - #3/INFO]: [Not Secure] <GrPatrixYT> porq sera :v
+[00:55:20] [Async Chat Thread - #3/INFO]: [Not Secure] <Cheta_YT> prende mic
+[00:55:30] [Async Chat Thread - #3/INFO]: [Not Secure] <GrPatrixYT> ando hablando con alguien xd
+[00:55:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Cheta_YT> xd
+[00:55:41] [Async Chat Thread - #3/INFO]: [Not Secure] <xRoma47x> al menos ya no hay montaña
+[00:55:45] [Async Chat Thread - #3/INFO]: [Not Secure] <GrPatrixYT> xd
+[00:55:52] [Async Chat Thread - #3/INFO]: [Not Secure] <GrPatrixYT> era mas facil asi
+[00:55:53] [Async Chat Thread - #2/INFO]: [Not Secure] <GrPatrixYT> xd
+[00:55:59] [Async Chat Thread - #2/INFO]: [Not Secure] <GrPatrixYT> y yo aplanando xd
+[00:56:25] [RegionFile I/O Thread #0/WARN]: Region file ./world/region/r.-3.1.mca has an invalid sector at index: 22; sector 2154 is out of bounds
+[00:56:25] [RegionFile I/O Thread #0/ERROR]: Detected invalid header for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca! Recalculating header...
+[00:56:25] [RegionFile I/O Thread #0/ERROR]: Recalculating regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, header gave erroneous offsets & locations
+[00:56:25] [RegionFile I/O Thread #0/WARN]: Corrupt regionfile header detected! Attempting to re-calculate header offsets for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca
+java.lang.Throwable: null
+	at net.minecraft.world.level.chunk.storage.RegionFile.recalculateHeader(RegionFile.java:142) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFile.<init>(RegionFile.java:513) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFile.<init>(RegionFile.java:404) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.moonrise$getRegionFileIfExists(RegionFileStorage.java:101) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.getRegionFile(RegionFileStorage.java:149) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.read(RegionFileStorage.java:218) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.ChunkStorage.read(ChunkStorage.java:186) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ChunkMap.read(ChunkMap.java:588) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.moonrise.patches.chunk_system.io.datacontroller.ChunkDataController.readData(ChunkDataController.java:48) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.moonrise.patches.chunk_system.io.RegionFileIOThread$ChunkDataTask.run(RegionFileIOThread.java:1166) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadedTaskQueue$PrioritisedTask.executeInternal(PrioritisedThreadedTaskQueue.java:351) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadedTaskQueue.executeTask(PrioritisedThreadedTaskQueue.java:118) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.pollTasks(PrioritisedQueueExecutorThread.java:114) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:50) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Backing up regionfile "/workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca" to /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca.5565054018663716096.backup
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Backed up the regionfile to /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca.5565054018663716096.backup
+[00:56:26] [RegionFile I/O Thread #0/INFO]: Starting summary of changes for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/INFO]: Local chunk (0,31) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (22,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (28,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca, it will be regenerated
+[00:56:26] [RegionFile I/O Thread #0/INFO]: End of change summary for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca
+[00:56:26] [RegionFile I/O Thread #0/INFO]: Successfully wrote new header to disk for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-3.1.mca
+[00:56:26] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT xRoma47x
+[00:56:26] [Server thread/INFO]: [xRoma47x: Teleported Cheta_YT to xRoma47x]
+[00:56:28] [Server thread/INFO]: Cheta_YT lost connection: Timed out
+[00:56:28] [Server thread/INFO]: Cheta_YT left the game
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Region file ./world/region/r.-5.0.mca has an invalid sector at index: 0; sector 1414 is out of bounds
+[00:56:43] [RegionFile I/O Thread #0/ERROR]: Detected invalid header for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca! Recalculating header...
+[00:56:43] [RegionFile I/O Thread #0/ERROR]: Recalculating regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, header gave erroneous offsets & locations
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Corrupt regionfile header detected! Attempting to re-calculate header offsets for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+java.lang.Throwable: null
+	at net.minecraft.world.level.chunk.storage.RegionFile.recalculateHeader(RegionFile.java:142) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFile.<init>(RegionFile.java:513) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFile.<init>(RegionFile.java:404) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.moonrise$getRegionFileIfExists(RegionFileStorage.java:101) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.getRegionFile(RegionFileStorage.java:149) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.read(RegionFileStorage.java:218) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.chunk.storage.ChunkStorage.read(ChunkStorage.java:186) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ChunkMap.read(ChunkMap.java:588) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.moonrise.patches.chunk_system.io.datacontroller.ChunkDataController.readData(ChunkDataController.java:48) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.moonrise.patches.chunk_system.io.RegionFileIOThread$ChunkDataTask.run(RegionFileIOThread.java:1166) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadedTaskQueue$PrioritisedTask.executeInternal(PrioritisedThreadedTaskQueue.java:351) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadedTaskQueue.executeTask(PrioritisedThreadedTaskQueue.java:118) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.pollTasks(PrioritisedQueueExecutorThread.java:114) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:50) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Backing up regionfile "/workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca" to /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca.-865665377523547749.backup
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Backed up the regionfile to /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca.-865665377523547749.backup
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Starting summary of changes for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [Async Chat Thread - #2/INFO]: [Not Secure] <xRoma47x> hay un golem vivo
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (0,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (1,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (2,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (3,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (4,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (5,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (6,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (7,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (8,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (9,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (10,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (11,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (12,27) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (12,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (13,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (14,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (15,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (16,28) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (16,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,12) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (17,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,0) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,1) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,2) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,3) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,4) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,5) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,6) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,7) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,8) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,11) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,13) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,15) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,16) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (18,25) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (18,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,9) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,10) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (19,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,14) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (20,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (21,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (22,18) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (22,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (22,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (22,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (22,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (22,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (23,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (24,18) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (24,21) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (24,28) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (24,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,19) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (25,23) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (25,24) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (25,27) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (25,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (25,31) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (26,19) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (26,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,18) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,21) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,30) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (27,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (28,20) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (28,22) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,23) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,24) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (29,25) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (29,27) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (29,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,25) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,27) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,29) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (30,30) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (30,31) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (31,17) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (31,26) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/WARN]: Data for local chunk (31,28) could not be recovered in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca, it will be regenerated
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Local chunk (31,30) changed to point to newer data or correct chunk in regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/INFO]: End of change summary for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:43] [RegionFile I/O Thread #0/INFO]: Successfully wrote new header to disk for regionfile /workspaces/Mundo-II/servidor_minecraft/./world/region/r.-5.0.mca
+[00:56:48] [Async Chat Thread - #2/INFO]: [Not Secure] <GrPatrixYT> nmms sxdw
+[00:56:55] [Async Chat Thread - #2/INFO]: [Not Secure] <xRoma47x> hay 2
+[00:57:02] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x
+[00:57:02] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to xRoma47x]
+[00:57:18] [User Authenticator #9/INFO]: UUID of player Cheta_YT is d62f9999-eb73-3833-a101-9c7b04270c86
+[00:57:20] [Server thread/INFO]: Cheta_YT joined the game
+[00:57:20] [Server thread/INFO]: Cheta_YT[/127.173.1.169:49537] logged in with entity id 230717 at ([world]-766.927836463799, 48.0, 23.58152244764603)
+[00:57:26] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT xRoma47x
+[00:57:26] [Server thread/INFO]: [xRoma47x: Teleported Cheta_YT to xRoma47x]
+[00:59:50] [Server thread/INFO]: Cheta_YT issued server command: /fill -801 90 38 -722 67 88 air
+[01:00:50] [Server thread/INFO]: Cheta_YT issued server command: /fill -801 90 38 -797 65 83 air+
+[01:01:06] [Server thread/INFO]: Cheta_YT issued server command: /fill -801 90 38 -739 65 83 air
+[01:01:24] [Server thread/INFO]: Cheta_YT issued server command: /fill -801 90 38 -748 69 68 air
+[01:02:21] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival xRoma47x
+[01:02:21] [Server thread/INFO]: [GrPatrixYT: Set xRoma47x's game mode to Survival Mode]
+[01:02:25] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival
+[01:02:25] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Survival Mode]
+[01:02:30] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode creative
+[01:02:30] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Creative Mode]
+[01:02:38] [Server thread/INFO]: xRoma47x was slain by GrPatrixYT
+[01:02:40] [Server thread/INFO]: [AngelChest] GrPatrixYT opened the AngelChest of xRoma47x at Location{world=CraftWorld{name=world},x=-734.0,y=72.0,z=134.0,pitch=0.0,yaw=0.0}
+[01:02:51] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[01:02:51] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[01:03:04] [Server thread/INFO]: Cheta_YT issued server command: /kill GrPatrixYT
+[01:03:04] [Server thread/INFO]: GrPatrixYT was killed
+[01:03:04] [Server thread/INFO]: [Cheta_YT: Killed GrPatrixYT]

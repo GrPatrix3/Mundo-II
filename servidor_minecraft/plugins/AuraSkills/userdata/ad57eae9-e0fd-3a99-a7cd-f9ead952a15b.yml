@@ -20,7 +20,7 @@ skills:
     xp: 2161.5
   auraskills/mining:
     level: 11
-    xp: 6405.559999993822
+    xp: 6406.279999993822
   auraskills/agility:
     level: 10
     xp: 947.0181999999805
@@ -60,6 +60,6 @@ trait_modifiers:
     value: 20.0
 ability_data:
   auraskills/xp_convert:
-    xp: 3.5157936051217646
+    xp: 4.235793605121765
   auraskills/first_strike:
     counter: 221
