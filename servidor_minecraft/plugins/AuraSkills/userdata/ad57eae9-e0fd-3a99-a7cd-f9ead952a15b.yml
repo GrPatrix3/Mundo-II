@@ -14,7 +14,7 @@ skills:
     xp: 224.89999999999998
   auraskills/enchanting:
     level: 6
-    xp: 2150.6000000000004
+    xp: 2190.2000000000003
   auraskills/fishing:
     level: 5
     xp: 2161.5
@@ -23,7 +23,7 @@ skills:
     xp: 6405.559999993822
   auraskills/agility:
     level: 10
-    xp: 833.8883999999805
+    xp: 947.0181999999805
   auraskills/alchemy:
     level: 3
     xp: 390.0
@@ -60,6 +60,6 @@ trait_modifiers:
     value: 20.0
 ability_data:
   auraskills/xp_convert:
-    xp: 27.78599360512176
+    xp: 3.5157936051217646
   auraskills/first_strike:
     counter: 221

@@ -90,3 +90,33 @@
 [00:32:42] [Server thread/INFO]: [Cheta_YT: Applied effect Levitation to 783 targets]
 [00:32:42] [Server thread/INFO]: xRoma47x issued server command: /give @a minecraft:netherite_axe
 [00:32:42] [Server thread/INFO]: [xRoma47x: Gave 1 [Netherite Axe] to 3]
+[00:32:55] [Server thread/INFO]: xRoma47x issued server command: /give @a minecraft:netherite_pickaxe
+[00:32:55] [Server thread/INFO]: [xRoma47x: Gave 1 [Netherite Pickaxe] to 3]
+[00:33:23] [Server thread/INFO]: Cheta_YT issued server command: /tp GrPatrixYT
+[00:33:23] [Server thread/INFO]: [Cheta_YT: Teleported Cheta_YT to GrPatrixYT]
+[00:33:48] [Server thread/INFO]: Cheta_YT issued server command: /tp xRoma47x
+[00:33:48] [Server thread/INFO]: [Cheta_YT: Teleported Cheta_YT to xRoma47x]
+[00:33:48] [Server thread/INFO]: Cheta_YT has completed the challenge [Great View From Up Here]
+[00:34:08] [Server thread/INFO]: xRoma47x issued server command: /give @a minecraft:netherite_block 1000000000
+[00:34:19] [Server thread/INFO]: GrPatrixYT has completed the challenge [Great View From Up Here]
+[00:34:26] [Server thread/INFO]: xRoma47x issued server command: /tp GrPatrixYT
+[00:34:26] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to GrPatrixYT]
+[00:34:49] [Server thread/INFO]: Cheta_YT issued server command: /effect clear @e
+[00:34:49] [Server thread/INFO]: [Cheta_YT: Removed every effect from 414 targets]
+[00:34:52] [Server thread/INFO]: Villager Villager['Villager'/47989, uuid='9437f28a-0e8b-4f40-963b-c29e07a2537b', l='ServerLevel[world]', x=-761.72, y=66.94, z=83.50, cpos=[-48, 5], tl=85908, v=true] died, message: 'Villager hit the ground too hard'
+[00:34:52] [Server thread/INFO]: Villager Villager['Farmer'/47990, uuid='9d95e676-4d4b-43b7-a27c-b0c2cdada737', l='ServerLevel[world]', x=-766.75, y=66.94, z=78.19, cpos=[-48, 4], tl=554447, v=true] died, message: 'Farmer hit the ground too hard'
+[00:34:52] [Server thread/INFO]: Villager Villager['Villager'/47991, uuid='6e6c21c2-c46e-4a06-b4ad-4e3f054ec3ec', l='ServerLevel[world]', x=-759.88, y=66.94, z=82.45, cpos=[-48, 5], tl=86310, v=true] died, message: 'Villager hit the ground too hard'
+[00:34:52] [Server thread/INFO]: Villager Villager['Farmer'/48105, uuid='37dbb992-2acf-4c0a-825c-b6919bbfe4cc', l='ServerLevel[world]', x=-765.90, y=66.94, z=79.82, cpos=[-48, 4], tl=488124, v=true] died, message: 'Farmer hit the ground too hard'
+[00:34:52] [Server thread/INFO]: Villager Villager['Farmer'/48107, uuid='691d2770-bf33-4b31-a899-b308fd7385e1', l='ServerLevel[world]', x=-766.87, y=67.00, z=79.19, cpos=[-48, 4], tl=484298, v=true] died, message: 'Farmer hit the ground too hard'
+[00:34:52] [Server thread/INFO]: Villager Villager['Farmer'/48108, uuid='e30a5f31-2476-467c-8461-d1fa14d02662', l='ServerLevel[world]', x=-765.27, y=66.94, z=81.46, cpos=[-48, 5], tl=476232, v=true] died, message: 'Farmer hit the ground too hard'
+[00:35:48] [Server thread/INFO]: Cheta_YT lost connection: Disconnected
+[00:35:48] [Server thread/INFO]: Cheta_YT left the game
+[00:36:02] [User Authenticator #6/INFO]: UUID of player Cheta_YT is d62f9999-eb73-3833-a101-9c7b04270c86
+[00:36:04] [Server thread/INFO]: Cheta_YT joined the game
+[00:36:04] [Server thread/INFO]: Cheta_YT[/127.173.1.169:53759] logged in with entity id 51641 at ([world]-466.27350775576923, 116.63035467486826, -138.45804810220807)
+[00:37:09] [Server thread/INFO]: Cheta_YT issued server command: /fill -468 62 -192 -535 72 -166 minecraft:tnt
+[00:37:09] [Server thread/INFO]: [Cheta_YT: Successfully filled 20196 block(s)]
+[00:39:52] [Server thread/INFO]: Cheta_YT issued server command: /fill -468 62 -192 -535 66 -215 minecraft:tnt
+[00:39:52] [Server thread/INFO]: [Cheta_YT: Successfully filled 7820 block(s)]
+[00:41:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Cheta_YT> no quedo nada xd
+[00:41:36] [Async Chat Thread - #0/INFO]: [Not Secure] <xRoma47x> walo se t peto el discord
