@@ -2,7 +2,7 @@ uuid: ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
 skills:
   auraskills/defense:
     level: 7
-    xp: 2429.3515898525684
+    xp: 2492.457107669112
   auraskills/foraging:
     level: 7
     xp: 3276.800000000133
@@ -20,23 +20,28 @@ skills:
     xp: 2161.5
   auraskills/mining:
     level: 11
-    xp: 6550.759999993821
+    xp: 6671.599999993798
   auraskills/agility:
     level: 10
-    xp: 1003.0119999999805
+    xp: 1029.5263999999804
   auraskills/alchemy:
-    level: 3
-    xp: 390.0
+    level: 8
+    xp: 5165.0
   auraskills/fighting:
     level: 12
     xp: 5007.599999999277
   auraskills/farming:
     level: 7
     xp: 2967.2549999999965
-mana: 48.0
+mana: 60.0
 action_bar:
   idle: true
 locale: es
+stat_modifiers:
+  '0':
+    name: AbilityModifier-WiseEffect
+    stat: auraskills/wisdom
+    value: 1.0
 trait_modifiers:
   '0':
     name: excavation_luck_ability
@@ -60,6 +65,6 @@ trait_modifiers:
     value: 20.0
 ability_data:
   auraskills/xp_convert:
-    xp: 23.696566824039607
+    xp: 11.156484640583807
   auraskills/first_strike:
     counter: 221

@@ -1394,3 +1394,745 @@ Reason: Banned by an operator.
 [01:33:25] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:ender_dragon
 [01:33:25] [Server thread/INFO]: [Cheta_YT: Summoned new Ender Dragon]
 [01:33:52] [Server thread/INFO]: Cheta_YT has made the advancement [Free the End]
+[01:35:13] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:iron_golem
+[01:35:13] [Server thread/INFO]: [Cheta_YT: Summoned new Iron Golem]
+[01:36:07] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:target
+[01:36:07] [Server thread/INFO]: [xRoma47x: Gave 1 [Target] to xRoma47x]
+[01:36:22] [Server thread/INFO]: Cheta_YT issued server command: /auraskills:mining
+[01:36:51] [Server thread/INFO]: Cheta_YT issued server command: /skill
+[01:38:32] [User Authenticator #13/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[01:38:33] [Server thread/INFO]: GrPatrixYT joined the game
+[01:38:33] [Server thread/INFO]: GrPatrixYT[/127.71.9.185:49577] logged in with entity id 251416 at ([world]-700.2657409944671, 62.0, 79.75644665192556)
+[01:38:41] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x
+[01:38:41] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to xRoma47x]
+[01:38:44] [Server thread/INFO]: Cheta_YT issued server command: /give Cheta_YT minecraft:netherite_pickaxe{Unbreakable:1,Enchantments:[{id:fortune,lvl:1000},{id:efficiency,lvl:1000}]}
+[01:38:45] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[01:38:45] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[01:39:22] [Server thread/INFO]: Cheta_YT issued server command: /give Cheta_YT minecraft:netherite_pickaxe {Unbreakable:1,Enchantments:[{id:fortune,lvl:1000},{id:efficiency,lvl:1000}]}
+[01:39:28] [Server thread/INFO]: Cheta_YT issued server command: /gamemode survival
+[01:39:28] [Server thread/INFO]: [Cheta_YT: Set own game mode to Survival Mode]
+[01:39:55] [Server thread/INFO]: Cheta_YT issued server command: /xp add @s 1000000000
+[01:39:55] [Server thread/INFO]: [Cheta_YT: Gave 1000000000 experience points to Cheta_YT]
+[01:40:37] [Server thread/INFO]: Cheta_YT issued server command: /give Cheta_YT minecraft:iron_pickaxe{Enchantments:[{lvl:1000s,id:"minecraft:efficiency"}]}
+[01:40:43] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[01:40:43] [Server thread/INFO]: [Cheta_YT: Set own game mode to Creative Mode]
+[01:42:12] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:speed infinite 255
+[01:42:12] [Server thread/INFO]: [Cheta_YT: Applied effect Speed to 907 targets]
+[01:42:26] [Server thread/WARN]: Cheta_YT moved too quickly! 10.281794989484297,-0.07840000152587834,-0.08758290995092466
+[01:42:47] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:haste infinite 255
+[01:42:47] [Server thread/INFO]: [Cheta_YT: Applied effect Haste to 928 targets]
+[01:43:09] [Server thread/INFO]: Cheta_YT issued server command: /effect give GrPatrixYT minecraft:night_vision infinite 255
+[01:43:09] [Server thread/INFO]: [Cheta_YT: Applied effect Night Vision to GrPatrixYT]
+[01:43:14] [Server thread/WARN]: Cheta_YT moved too quickly! -10.20432486269192,-0.07840000152587834,-1.0656551458685044
+[01:43:28] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival
+[01:43:28] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Survival Mode]
+[01:43:32] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode creative
+[01:43:32] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Creative Mode]
+[01:43:41] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:fire_resistance infinite 255
+[01:43:41] [Server thread/INFO]: [Cheta_YT: Applied effect Fire Resistance to 720 targets]
+[01:44:01] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:health_boost infinite 255
+[01:44:01] [Server thread/INFO]: [Cheta_YT: Applied effect Health Boost to 763 targets]
+[01:44:18] [Server thread/INFO]: Cheta_YT issued server command: /effect clear @e minecraft:speed
+[01:44:18] [Server thread/INFO]: [Cheta_YT: Removed effect Speed from 718 targets]
+[01:44:22] [Server thread/INFO]: Cheta_YT issued server command: /gamemode survival
+[01:44:22] [Server thread/INFO]: [Cheta_YT: Set own game mode to Survival Mode]
+[01:44:31] [Server thread/INFO]: Named entity Warden['jimmy'/247771, uuid='78178ea4-2bc0-4000-a35a-a5b092873793', l='ServerLevel[world]', x=-3247.77, y=-54.25, z=-1827.55, cpos=[-203, -115], tl=11920, v=true] died: jimmy was shot by a skull from Wither
+[01:44:34] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:regeneration infinite 255
+[01:44:34] [Server thread/INFO]: [Cheta_YT: Applied effect Regeneration to 654 targets]
+[01:44:43] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[01:44:43] [Server thread/INFO]: [Cheta_YT: Set own game mode to Creative Mode]
+[01:44:48] [Server thread/INFO]: xRoma47x issued server command: /gamemode survival
+[01:44:48] [Server thread/INFO]: [xRoma47x: Set own game mode to Survival Mode]
+[01:45:20] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival
+[01:45:20] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Survival Mode]
+[01:45:22] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode creative
+[01:45:22] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Creative Mode]
+[01:45:28] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival
+[01:45:28] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Survival Mode]
+[01:45:38] [Server thread/INFO]: Cheta_YT issued server command: /tp GrPatrixYT
+[01:45:38] [Server thread/INFO]: [Cheta_YT: Teleported Cheta_YT to GrPatrixYT]
+[01:45:42] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:45:42] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:45:46] [Server thread/INFO]: Cheta_YT issued server command: /gamemode survival
+[01:45:46] [Server thread/INFO]: [Cheta_YT: Set own game mode to Survival Mode]
+[01:45:47] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode creative
+[01:45:47] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Creative Mode]
+[01:46:00] [Server thread/INFO]: Cheta_YT has completed the challenge [It Spreads]
+[01:46:29] [Server thread/INFO]: xRoma47x was slain by Cheta_YT
+[01:46:34] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:46:34] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:46:57] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:health_boost infinite 255
+[01:46:57] [Server thread/INFO]: [Cheta_YT: Applied effect Health Boost to 248 targets]
+[01:47:06] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:regeneration infinite 255
+[01:47:06] [Server thread/INFO]: [Cheta_YT: Applied effect Regeneration to 251 targets]
+[01:47:14] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:saturation infinite 255
+[01:47:14] [Server thread/INFO]: [Cheta_YT: Applied effect Saturation to 251 targets]
+[01:47:44] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:absorption infinite 255
+[01:47:44] [Server thread/INFO]: [Cheta_YT: Applied effect Absorption to 249 targets]
+[01:47:58] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:haste infinite 255
+[01:47:58] [Server thread/INFO]: [Cheta_YT: Applied effect Haste to 259 targets]
+[01:48:05] [Server thread/INFO]: GrPatrixYT issued server command: /summon minecraft:warden
+[01:48:05] [Server thread/INFO]: [GrPatrixYT: Summoned new Warden]
+[01:48:14] [Server thread/INFO]: GrPatrixYT issued server command: /give @p diamond_sword{Enchantments:[{id:"minecraft:sharpness",lvl:1000s}]} 1
+[01:48:31] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:levitation infinite 20
+[01:48:31] [Server thread/INFO]: [Cheta_YT: Applied effect Levitation to 279 targets]
+[01:48:38] [Server thread/INFO]: GrPatrixYT issued server command: /give GrPatrixYT minecraft:command_block
+[01:48:38] [Server thread/INFO]: [GrPatrixYT: Gave 1 [Command Block] to GrPatrixYT]
+[01:48:52] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[01:48:52] [Server thread/INFO]: [Cheta_YT: Set own game mode to Creative Mode]
+[01:48:59] [Server thread/INFO]: Cheta_YT issued server command: /gamemode survival
+[01:48:59] [Server thread/INFO]: [Cheta_YT: Set own game mode to Survival Mode]
+[01:49:12] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[01:49:12] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[01:49:13] [Server thread/INFO]: Cheta_YT issued server command: /tp GrPatrixYT Cheta_YT
+[01:49:13] [Server thread/INFO]: [Cheta_YT: Teleported GrPatrixYT to Cheta_YT]
+[01:49:13] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[01:49:13] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[01:49:40] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:levitation infinite 20
+[01:49:40] [Server thread/INFO]: [Cheta_YT: Applied effect Levitation to 291 targets]
+[01:49:54] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:levitation infinite 200
+[01:49:54] [Server thread/INFO]: [Cheta_YT: Applied effect Levitation to 226 targets]
+[01:50:09] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:50:09] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:50:17] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:50:17] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:50:22] [Server thread/WARN]: xRoma47x moved too quickly! 0.0,18.238890531593825,0.0
+[01:50:25] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:50:25] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:50:30] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:50:30] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:50:31] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:50:31] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:50:33] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:50:33] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:50:33] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:50:33] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:50:45] [Server thread/INFO]: Cheta_YT issued server command: /effect clear @e minecraft:levitation
+[01:50:45] [Server thread/INFO]: [Cheta_YT: Removed effect Levitation from 182 targets]
+[01:51:12] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:51:12] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:51:27] [Server thread/INFO]: Cheta_YT issued server command: /tp GrPatrixYT Cheta_YT
+[01:51:27] [Server thread/INFO]: [Cheta_YT: Teleported GrPatrixYT to Cheta_YT]
+[01:51:40] [Server thread/INFO]: xRoma47x issued server command: /gamemode survival
+[01:51:40] [Server thread/INFO]: [xRoma47x: Set own game mode to Survival Mode]
+[01:51:49] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[01:51:49] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[01:52:15] [Server thread/INFO]: GrPatrixYT issued server command: /tp c
+[01:52:17] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[01:52:17] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[01:52:42] [Server thread/INFO]: xRoma47x issued server command: /gamemode survival
+[01:52:42] [Server thread/INFO]: [xRoma47x: Set own game mode to Survival Mode]
+[01:52:46] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival
+[01:52:46] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Survival Mode]
+[01:52:56] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:water_bucket 1
+[01:52:56] [Server thread/INFO]: [Cheta_YT: Gave 1 [Water Bucket] to Cheta_YT]
+[01:52:59] [Server thread/INFO]: Cheta_YT fell from a high place
+[01:53:02] [Server thread/INFO]: xRoma47x fell from a high place
+[01:53:06] [Server thread/INFO]: GrPatrixYT fell from a high place
+[01:53:09] [Server thread/INFO]: Cheta_YT issued server command: /tp GrPatrixYT
+[01:53:09] [Server thread/INFO]: [Cheta_YT: Teleported Cheta_YT to GrPatrixYT]
+[01:53:14] [Server thread/INFO]: Cheta_YT issued server command: /back
+[01:53:15] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[01:53:15] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[01:53:23] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode creative
+[01:53:23] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Creative Mode]
+[01:53:26] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[01:53:26] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[01:53:40] [Server thread/INFO]: xRoma47x issued server command: /back
+[01:53:54] [Server thread/INFO]: Cheta_YT issued server command: /give @p stick 25555555
+[01:54:13] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:stick 6400
+[01:54:13] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Stick] to Cheta_YT]
+[01:54:45] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:baked_potato 6400
+[01:54:45] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:54:52] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:baked_potato 6400
+[01:54:52] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:54:58] [Server thread/INFO]: Cheta_YT issued server command: /give @s minecraft:baked_potato 6400
+[01:54:58] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:55:04] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:baked_potato 6400
+[01:55:04] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:55:06] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:baked_potato 6400
+[01:55:06] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:55:06] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:baked_potato 6400
+[01:55:06] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:55:07] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:baked_potato 6400
+[01:55:07] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:55:08] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:baked_potato 6400
+[01:55:08] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:55:09] [Server thread/INFO]: Cheta_YT issued server command: /give @p minecraft:baked_potato 6400
+[01:55:09] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:55:10] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:milk_bucket 1000
+[01:55:17] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:milk_bucket 100
+[01:55:17] [Server thread/INFO]: [xRoma47x: Gave 100 [Milk Bucket] to xRoma47x]
+[01:55:32] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:32] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to GrPatrixYT]
+[01:55:35] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:35] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:55:36] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:36] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to xRoma47x]
+[01:55:37] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:37] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to Cheta_YT]
+[01:55:38] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:38] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to GrPatrixYT]
+[01:55:39] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:39] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to GrPatrixYT]
+[01:55:40] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:40] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to xRoma47x]
+[01:55:41] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:41] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to GrPatrixYT]
+[01:55:42] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:42] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to xRoma47x]
+[01:55:42] [Server thread/INFO]: Cheta_YT issued server command: /give @r minecraft:baked_potato 6400
+[01:55:42] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to xRoma47x]
+[01:55:56] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:milk_bucket 1000
+[01:56:11] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 1600
+[01:56:11] [Server thread/INFO]: [xRoma47x: Gave 1600 [Acacia Button] to xRoma47x]
+[01:56:15] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:15] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:17] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:17] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:18] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:18] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:19] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:19] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:21] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato
+[01:56:21] [Server thread/INFO]: [Cheta_YT: Gave 1 [Baked Potato] to 3]
+[01:56:23] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:23] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:24] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:24] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:25] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:25] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:26] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:26] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:27] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:27] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:28] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:28] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:29] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:29] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:31] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:31] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:32] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:32] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:33] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:33] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:34] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:34] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:37] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:37] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:37] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:37] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:38] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:38] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:39] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:39] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:39] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:39] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:39] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:39] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:40] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:40] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:41] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:41] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:42] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:42] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:43] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:43] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:45] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:45] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:45] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:45] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:46] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:baked_potato 6400
+[01:56:46] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Baked Potato] to 3]
+[01:56:46] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:46] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:48] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:48] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:49] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:49] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:50] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:50] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:51] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:51] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:52] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:52] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:53] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:53] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:53] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:53] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:56:54] [Server thread/INFO]: xRoma47x issued server command: /give xRoma47x minecraft:acacia_button 6400
+[01:56:54] [Server thread/INFO]: [xRoma47x: Gave 6400 [Acacia Button] to xRoma47x]
+[01:57:05] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:05] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:06] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:06] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:07] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:07] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:08] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:08] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:12] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:12] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:13] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:13] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:14] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:14] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:15] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:15] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:16] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:16] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:17] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:17] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:17] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:17] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:19] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:19] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:20] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:20] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:21] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:21] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:22] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:22] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:23] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:23] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:27] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:27] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:28] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400
+[01:57:28] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Allium] to 3]
+[01:57:31] [Server thread/INFO]: Cheta_YT issued server command: /give @a minecraft:allium 6400/give @a minecraft:allium 6400
+[01:57:43] [Server thread/INFO]: Cheta_YT has made the advancement [Hot Stuff]
+[01:57:59] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:fire_resistance infinite 255
+[01:57:59] [Server thread/INFO]: [Cheta_YT: Applied effect Fire Resistance to 228 targets]
+[01:58:11] [Server thread/INFO]: GrPatrixYT issued server command: /reload
+[01:58:11] [Server thread/INFO]: GrPatrixYT: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[01:58:21] [Server thread/INFO]: Cheta_YT issued server command: /reload confirm
+[01:58:21] [Server thread/INFO]: Cheta_YT: Please note that this command is not supported and may cause issues when using some plugins.
+[01:58:21] [Server thread/INFO]: Cheta_YT: If you encounter any issues please use the /stop command to restart your server.
+[01:58:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:58:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:58:21] [Server thread/INFO]: [RHLeafDecay] Disabling RHLeafDecay v1.21_R1
+[01:58:21] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
+[01:58:21] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
+[01:58:21] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.7
+[01:58:21] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.4
+[01:58:21] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:58:21] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.4
+[01:58:21] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[01:58:21] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[01:58:21] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[01:58:21] [Server thread/ERROR]: Error occurred while disabling SetHome v6.2.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.command.PluginCommand.setExecutor(org.bukkit.command.CommandExecutor)" because the return value of "com.downthepark.sethome.SetHome.getCommand(String)" is null
+	at SetHome-6.2.3.jar/com.downthepark.sethome.SetHome.onDisable(SetHome.java:80) ~[SetHome-6.2.3.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.clearPlugins(PaperPluginInstanceManager.java:167) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.clearPlugins(PaperPluginManagerImpl.java:102) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:607) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1092) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.Bukkit.reload(Bukkit.java:1038) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2218) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2192) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:58:21] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
+[01:58:21] [Server thread/ERROR]: Error occurred while disabling AngelChest v13.9.0
+java.lang.ExceptionInInitializerError: null
+	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain.onDisable(AngelChestMain.java:442) ~[AngelChest-13.9.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.clearPlugins(PaperPluginInstanceManager.java:167) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.clearPlugins(PaperPluginManagerImpl.java:102) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:607) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1092) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.Bukkit.reload(Bukkit.java:1038) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2218) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2192) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.validate(CraftScheduler.java:539) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:219) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:210) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.scheduler.BukkitRunnable.runTaskTimer(BukkitRunnable.java:117) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain$$aF.<clinit>(GraveyardListener.java:57) ~[AngelChest-13.9.0.jar:?]
+	... 37 more
+[01:58:21] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[01:58:22] [Server thread/INFO]: Loaded 1290 recipes
+[01:58:22] [Server thread/INFO]: Loaded 1399 advancements
+[01:58:22] [Paper Async Command Builder Thread Pool - 34/ERROR]: Caught previously unhandled exception :
+[01:58:22] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:58:22] [Paper Async Command Builder Thread Pool - 34/ERROR]: Paper Async Command Builder Thread Pool - 34
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:58:22] [Server thread/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[01:58:22] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - AngelChest (13.9.0), AuraSkills (2.2.7), ClearLag (3.2.2), RHLeafDecay (1.21_R1), SetHome (6.2.3), SimpleTpa (7.4), SkinsRestorer (15.5.1)
+[01:58:22] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[01:58:22] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[01:58:22] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[01:58:22] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[01:58:22] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[01:58:22] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.7
+[01:58:22] [Server thread/INFO]: [RHLeafDecay] Loading server plugin RHLeafDecay v1.21_R1
+[01:58:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:58:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[01:58:23] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[01:58:23] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[01:58:24] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[01:58:24] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:58:24] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.5.1
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: d5d8613
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:58:25] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:58:25] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[01:58:25] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[01:58:25] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[01:58:25] [Server thread/INFO]: [AngelChest] Removed 1 old log files.
+[01:58:25] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[01:58:25] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[01:58:25] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[01:58:25] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[01:58:25] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[01:58:25] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[01:58:25] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[01:58:25] [Server thread/INFO]: [ClearLag] Loading modules...
+[01:58:25] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[01:58:25] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[01:58:25] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[01:58:25] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[01:58:25] [Thread-29/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[01:58:25] [Thread-29/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[01:58:25] [Thread-29/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[01:58:25] [Thread-29/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[01:58:25] [Thread-29/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[01:58:25] [Thread-29/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:58:25] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[01:58:25] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:58:25] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[01:58:25] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[01:58:25] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.7
+[01:58:26] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[01:58:26] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 40 ms
+[01:58:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.1! Trying to find NMS support
+[01:58:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[01:58:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[01:58:27] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[01:58:27] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[01:58:27] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.21_R1
+[01:58:27] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[01:58:27] [Server thread/INFO]: [RHLeafDecay] You are using version 1.21_R1 /w 💕 by X0R3
+[01:58:27] [Server thread/INFO]: [RHLeafDecay] Info:
+[01:58:27] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[01:58:27] [Paper Async Command Builder Thread Pool - 35/ERROR]: Caught previously unhandled exception :
+[01:58:27] [Paper Async Command Builder Thread Pool - 35/ERROR]: Paper Async Command Builder Thread Pool - 35
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:502) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:58:27] [Server thread/INFO]: Cheta_YT: Reload complete.
+[01:58:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6405ms or 128 ticks behind
+[01:58:27] [Server thread/INFO]: Timings Reset
+[01:58:28] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[01:58:28] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[01:58:28] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[01:58:28] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[01:58:29] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[01:58:29] [Server thread/INFO]: GrPatrixYT issued server command: /reload confirm
+[01:58:29] [Server thread/INFO]: GrPatrixYT: Please note that this command is not supported and may cause issues when using some plugins.
+[01:58:29] [Server thread/INFO]: GrPatrixYT: If you encounter any issues please use the /stop command to restart your server.
+[01:58:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:58:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:58:29] [Server thread/INFO]: [RHLeafDecay] Disabling RHLeafDecay v1.21_R1
+[01:58:29] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
+[01:58:29] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
+[01:58:29] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.7
+[01:58:29] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.4
+[01:58:29] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:58:29] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.4
+[01:58:29] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[01:58:29] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[01:58:29] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[01:58:29] [Server thread/ERROR]: Error occurred while disabling SetHome v6.2.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.command.PluginCommand.setExecutor(org.bukkit.command.CommandExecutor)" because the return value of "com.downthepark.sethome.SetHome.getCommand(String)" is null
+	at SetHome-6.2.3.jar/com.downthepark.sethome.SetHome.onDisable(SetHome.java:80) ~[SetHome-6.2.3.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.clearPlugins(PaperPluginInstanceManager.java:167) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.clearPlugins(PaperPluginManagerImpl.java:102) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:607) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1092) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.Bukkit.reload(Bukkit.java:1038) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2218) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2192) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1588) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:58:29] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
+[01:58:29] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[01:58:29] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[01:58:29] [Server thread/INFO]: Loaded 1290 recipes
+[01:58:29] [Server thread/INFO]: Loaded 1399 advancements
+[01:58:29] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:58:29] [Paper Async Command Builder Thread Pool - 36/ERROR]: Caught previously unhandled exception :
+[01:58:29] [Paper Async Command Builder Thread Pool - 36/ERROR]: Paper Async Command Builder Thread Pool - 36
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:58:29] [Server thread/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[01:58:29] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - AngelChest (13.9.0), AuraSkills (2.2.7), ClearLag (3.2.2), RHLeafDecay (1.21_R1), SetHome (6.2.3), SimpleTpa (7.4), SkinsRestorer (15.5.1)
+[01:58:30] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[01:58:30] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[01:58:30] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[01:58:30] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[01:58:30] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[01:58:30] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.7
+[01:58:30] [Server thread/INFO]: [RHLeafDecay] Loading server plugin RHLeafDecay v1.21_R1
+[01:58:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:58:30] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[01:58:30] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[01:58:30] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[01:58:31] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[01:58:32] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:58:32] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.5.1
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: d5d8613
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:58:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:58:32] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[01:58:32] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[01:58:32] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[01:58:32] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[01:58:32] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[01:58:32] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[01:58:32] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[01:58:32] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[01:58:32] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[01:58:32] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[01:58:32] [Server thread/INFO]: [ClearLag] Loading modules...
+[01:58:32] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[01:58:32] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[01:58:32] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[01:58:32] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[01:58:32] [Thread-32/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[01:58:32] [Thread-32/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[01:58:32] [Thread-32/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[01:58:32] [Thread-32/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[01:58:32] [Thread-32/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[01:58:32] [Thread-32/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:58:32] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[01:58:32] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:58:32] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[01:58:32] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[01:58:32] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.7
+[01:58:33] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[01:58:34] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 41 ms
+[01:58:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.1! Trying to find NMS support
+[01:58:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[01:58:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[01:58:34] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[01:58:34] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[01:58:34] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.21_R1
+[01:58:34] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[01:58:34] [Server thread/INFO]: [RHLeafDecay] You are using version 1.21_R1 /w 💕 by X0R3
+[01:58:34] [Server thread/INFO]: [RHLeafDecay] Info:
+[01:58:34] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[01:58:34] [Paper Async Command Builder Thread Pool - 37/ERROR]: Caught previously unhandled exception :
+[01:58:34] [Paper Async Command Builder Thread Pool - 37/ERROR]: Paper Async Command Builder Thread Pool - 37
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:58:35] [Server thread/INFO]: GrPatrixYT: Reload complete.
+[01:58:35] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[01:58:35] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[01:58:35] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[01:58:35] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[01:58:35] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[01:58:35] [Server thread/INFO]: Timings Reset
+[01:58:35] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[01:58:35] [Server thread/INFO]: [Cheta_YT: Set own game mode to Creative Mode]
+[01:58:35] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[01:58:36] [Server thread/INFO]: [AngelChest] ========================================================
+[01:58:36] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[01:58:36] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[01:58:36] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[01:58:36] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[01:58:36] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[01:58:36] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[01:58:36] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[01:58:36] [Server thread/INFO]: [AngelChest] 
+[01:58:36] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[01:58:36] [Server thread/INFO]: [AngelChest] ========================================================
+[01:58:55] [Server thread/INFO]: GrPatrixYT issued server command: /give GrPatrixYT minecraft:command_block
+[01:58:55] [Server thread/INFO]: [GrPatrixYT: Gave 1 [Command Block] to GrPatrixYT]
+[01:59:35] [Server thread/INFO]: Cheta_YT issued server command: /give @s minecraft:command_block 6400
+[01:59:35] [Server thread/INFO]: [Cheta_YT: Gave 6400 [Command Block] to Cheta_YT]
+[02:00:17] [Server thread/INFO]: [@: Set the time to 1000]
+[02:00:40] [Server thread/INFO]: [@: Set the time to 1000]
+[02:00:57] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[02:00:57] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[02:01:28] [Server thread/INFO]: [@: Gave 1 [Stick] to GrPatrixYT]
+[02:01:40] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival xRoma47x
+[02:01:40] [Server thread/INFO]: [GrPatrixYT: Set xRoma47x's game mode to Survival Mode]
+[02:01:44] [Server thread/INFO]: Cheta_YT issued server command: /give @r stick[enchantments={knockback:255}]
+[02:01:44] [Server thread/INFO]: [Cheta_YT: Gave 1 [Stick] to Cheta_YT]
+[02:01:50] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[02:01:50] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[02:01:54] [Server thread/INFO]: Cheta_YT issued server command: /gamemode survival
+[02:01:54] [Server thread/INFO]: [Cheta_YT: Set own game mode to Survival Mode]
+[02:01:55] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[02:01:55] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[02:01:59] [Server thread/INFO]: Cheta_YT was doomed to fall by GrPatrixYT
+[02:02:03] [Server thread/INFO]: Cheta_YT issued server command: /give GrPatrixYT stick[enchantments={knockback:255}]
+[02:02:03] [Server thread/INFO]: [Cheta_YT: Gave 1 [Stick] to GrPatrixYT]
+[02:02:07] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[02:02:07] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[02:02:11] [Server thread/INFO]: Cheta_YT issued server command: /give xRoma47x stick[enchantments={knockback:255}]
+[02:02:11] [Server thread/INFO]: [Cheta_YT: Gave 1 [Stick] to xRoma47x]
+[02:02:23] [Server thread/INFO]: Cheta_YT issued server command: /tp grpatrixx
+[02:02:27] [Server thread/INFO]: Cheta_YT issued server command: /tp grpatrix
+[02:02:28] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[02:02:56] [Server thread/INFO]: Cheta_YT issued server command: /give Cheta_YT stick[enchantments={knockback:255}]
+[02:02:56] [Server thread/INFO]: [Cheta_YT: Gave 1 [Stick] to Cheta_YT]
+[02:03:00] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT xRoma47x
+[02:03:00] [Server thread/INFO]: [xRoma47x: Teleported Cheta_YT to xRoma47x]
+[02:03:16] [Server thread/INFO]: Cheta_YT issued server command: /give @s minecraft:command_block
+[02:03:16] [Server thread/INFO]: [Cheta_YT: Gave 1 [Command Block] to Cheta_YT]
+[02:03:33] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[02:03:33] [Server thread/INFO]: [Cheta_YT: Set own game mode to Creative Mode]
+[02:03:35] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[02:03:36] [Server thread/INFO]: [@: Set xRoma47x's game mode to Survival Mode]
+[02:03:37] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[02:03:37] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[02:03:41] [Server thread/INFO]: xRoma47x issued server command: /tp Cheta_YT
+[02:03:41] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to Cheta_YT]
+[02:03:55] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival xRoma47x
+[02:03:55] [Server thread/INFO]: [GrPatrixYT: Set xRoma47x's game mode to Survival Mode]
+[02:03:55] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[02:03:55] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[02:03:58] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival xRoma47x
+[02:03:58] [Server thread/INFO]: [GrPatrixYT: Set xRoma47x's game mode to Survival Mode]
+[02:03:59] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[02:03:59] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[02:04:07] [Server thread/INFO]: [@: Set xRoma47x's game mode to Survival Mode]
+[02:04:13] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[02:04:13] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[02:04:26] [Server thread/INFO]: [@: Set Cheta_YT's game mode to Survival Mode]
+[02:04:29] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[02:04:29] [Server thread/INFO]: [Cheta_YT: Set own game mode to Creative Mode]
