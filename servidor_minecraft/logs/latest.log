@@ -35,3 +35,58 @@
 [00:20:38] [User Authenticator #3/INFO]: UUID of player xRoma47x is 8944fc3b-cd50-39c1-a5ea-89e96f123b85
 [00:20:39] [Server thread/INFO]: xRoma47x joined the game
 [00:20:39] [Server thread/INFO]: xRoma47x[/127.74.153.192:52195] logged in with entity id 39644 at ([world_the_end]96.37405981220648, 33.240161363839505, 12.745224389175242)
+[00:23:15] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[00:23:15] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[00:23:21] [Server thread/INFO]: xRoma47x lost connection: Disconnected
+[00:23:21] [Server thread/INFO]: xRoma47x left the game
+[00:23:31] [User Authenticator #4/INFO]: UUID of player xRoma47x is 8944fc3b-cd50-39c1-a5ea-89e96f123b85
+[00:23:32] [Server thread/INFO]: xRoma47x joined the game
+[00:23:32] [Server thread/INFO]: xRoma47x[/127.74.153.192:57117] logged in with entity id 42422 at ([world]-657.6094061022817, 73.0, 85.25320551875903)
+[00:23:48] [Server thread/INFO]: GrPatrixYT issued server command: /home
+[00:23:48] [Server thread/INFO]: Cheta_YT issued server command: /tpa xRoma47x
+[00:23:51] [Server thread/INFO]: xRoma47x issued server command: /tpaccept
+[00:24:07] [Server thread/INFO]: Cheta_YT issued server command: /home
+[00:24:09] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[00:24:09] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[00:24:16] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x
+[00:24:16] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to xRoma47x]
+[00:24:44] [Server thread/INFO]: Villager Villager['Leatherworker'/43673, uuid='32efc3ff-8e41-4017-8888-37c8ad779df4', l='ServerLevel[world]', x=-1399.16, y=65.00, z=-271.18, cpos=[-88, -17], tl=88439, v=true] died, message: 'Leatherworker suffocated in a wall'
+[00:24:59] [Server thread/INFO]: Cheta_YT lost connection: Disconnected
+[00:24:59] [Server thread/INFO]: Cheta_YT left the game
+[00:25:10] [User Authenticator #5/INFO]: UUID of player Cheta_YT is d62f9999-eb73-3833-a101-9c7b04270c86
+[00:25:13] [Server thread/INFO]: Cheta_YT joined the game
+[00:25:13] [Server thread/INFO]: Cheta_YT[/127.173.1.169:48375] logged in with entity id 43987 at ([world]-1248.1464342903387, 63.0, -405.90275489381855)
+[00:25:23] [Server thread/INFO]: Cheta_YT has made the advancement [Ice Bucket Challenge]
+[00:26:05] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[00:26:05] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[00:26:09] [Server thread/INFO]: xRoma47x issued server command: /home Cheta_YT
+[00:26:17] [Server thread/INFO]: xRoma47x issued server command: /tpa Cheta_YT
+[00:26:25] [Server thread/INFO]: Cheta_YT issued server command: /tpaccept
+[00:27:35] [Server thread/INFO]: xRoma47x issued server command: /home Cheta_YT
+[00:28:13] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT
+[00:28:13] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Cheta_YT]
+[00:29:27] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT GrPatrixYT
+[00:29:27] [Server thread/INFO]: [GrPatrixYT: Teleported Cheta_YT to GrPatrixYT]
+[00:29:32] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x GrPatrixYT
+[00:29:32] [Server thread/INFO]: [GrPatrixYT: Teleported xRoma47x to GrPatrixYT]
+[00:31:10] [Server thread/INFO]: xRoma47x issued server command: /home Cheta_YT
+[00:31:11] [Server thread/INFO]: GrPatrixYT issued server command: /op Cheta_YT
+[00:31:11] [Server thread/INFO]: [GrPatrixYT: Made Cheta_YT a server operator]
+[00:31:16] [Server thread/INFO]: GrPatrixYT issued server command: /op x
+[00:31:16] [Server thread/INFO]: [GrPatrixYT: Made x a server operator]
+[00:31:20] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x
+[00:31:20] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to xRoma47x]
+[00:31:24] [Server thread/INFO]: GrPatrixYT issued server command: /op xRoma47x
+[00:31:24] [Server thread/INFO]: [GrPatrixYT: Made xRoma47x a server operator]
+[00:31:27] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode creative
+[00:31:27] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Creative Mode]
+[00:31:36] [Server thread/INFO]: xRoma47x issued server command: /gamemode creative
+[00:31:36] [Server thread/INFO]: [xRoma47x: Set own game mode to Creative Mode]
+[00:31:37] [Server thread/INFO]: Cheta_YT issued server command: /gamemode creative
+[00:31:37] [Server thread/INFO]: [Cheta_YT: Set own game mode to Creative Mode]
+[00:32:28] [Server thread/INFO]: xRoma47x issued server command: /give @a minecraft:netherite_sword
+[00:32:28] [Server thread/INFO]: [xRoma47x: Gave 1 [Netherite Sword] to 3]
+[00:32:42] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:levitation infinite
+[00:32:42] [Server thread/INFO]: [Cheta_YT: Applied effect Levitation to 783 targets]
+[00:32:42] [Server thread/INFO]: xRoma47x issued server command: /give @a minecraft:netherite_axe
+[00:32:42] [Server thread/INFO]: [xRoma47x: Gave 1 [Netherite Axe] to 3]
