@@ -881,6 +881,7 @@
       "minecraft:spider": "2024-12-23 22:42:49 +0000",
       "minecraft:zombie": "2024-12-23 22:37:00 +0000",
       "minecraft:creeper": "2024-12-23 22:42:05 +0000",
+      "minecraft:wither": "2024-12-24 01:11:55 +0000",
       "minecraft:shulker": "2024-12-23 23:53:56 +0000"
     },
     "done": false
@@ -1879,6 +1880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-24 01:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-24 00:58:13 +0000"
@@ -1894,6 +1901,12 @@
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-24 00:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-24 01:12:10 +0000"
     },
     "done": true
   },
