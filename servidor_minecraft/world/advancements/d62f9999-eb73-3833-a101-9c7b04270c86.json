@@ -1357,7 +1357,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-23 23:14:27 +0000"
+      "minecraft:nether_wastes": "2024-12-23 23:14:27 +0000",
+      "minecraft:warped_forest": "2024-12-24 00:11:29 +0000"
     },
     "done": false
   },
@@ -1466,6 +1467,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-23 23:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-24 00:11:18 +0000"
     },
     "done": true
   },
@@ -1595,6 +1602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-24 00:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 23:22:38 +0000"
@@ -1610,6 +1623,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-23 23:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-24 00:11:18 +0000"
     },
     "done": true
   },
