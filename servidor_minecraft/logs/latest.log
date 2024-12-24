@@ -120,3 +120,60 @@
 [00:39:52] [Server thread/INFO]: [Cheta_YT: Successfully filled 7820 block(s)]
 [00:41:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Cheta_YT> no quedo nada xd
 [00:41:36] [Async Chat Thread - #0/INFO]: [Not Secure] <xRoma47x> walo se t peto el discord
+[00:43:44] [Server thread/INFO]: Cheta_YT issued server command: /fill -468 62 -192 -521 78 -237 tnt
+[00:44:00] [Server thread/INFO]: Cheta_YT issued server command: /fill -468 62 -192 -515 78 -216 tnt
+[00:44:00] [Server thread/INFO]: [Cheta_YT: Successfully filled 20400 block(s)]
+[00:44:55] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:levitation infinite
+[00:44:55] [Server thread/INFO]: [Cheta_YT: Applied effect Levitation to 16789 targets]
+[00:45:21] [Server thread/INFO]: Cheta_YT issued server command: /effect give @e minecraft:levitation infinite 50
+[00:45:21] [Server thread/INFO]: [Cheta_YT: Applied effect Levitation to 14678 targets]
+[00:46:59] [Server thread/INFO]: Cheta_YT issued server command: /fill -468 62 -192 -373 91 -184 tnt
+[00:46:59] [Server thread/INFO]: [Cheta_YT: Successfully filled 25920 block(s)]
+[00:48:14] [Server thread/INFO]: Cheta_YT issued server command: /fill -468 62 -192 -504 96 -114 minecraft:tnt
+[00:48:37] [Server thread/INFO]: Cheta_YT issued server command: /fill -468 62 -192 -495 90 -123 minecraft:tnt
+[00:48:44] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:ender_dragon
+[00:48:44] [Server thread/INFO]: [Cheta_YT: Summoned new Ender Dragon]
+[00:48:56] [Server thread/INFO]: Cheta_YT issued server command: /summon minecraft:wither
+[00:48:56] [Server thread/INFO]: [Cheta_YT: Summoned new Wither]
+[00:49:35] [Server thread/INFO]: GrPatrixYT issued server command: /kill xRoma47x
+[00:49:35] [Server thread/INFO]: xRoma47x was killed
+[00:49:35] [Server thread/INFO]: [GrPatrixYT: Killed xRoma47x]
+[00:49:42] [Server thread/INFO]: Cheta_YT issued server command: /fill -468 62 -192 -497 79 -140 minecraft:tnt
+[00:49:42] [Server thread/INFO]: [Cheta_YT: Successfully filled 28620 block(s)]
+[00:49:51] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x
+[00:49:51] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to xRoma47x]
+[00:51:18] [Server thread/INFO]: GrPatrixYT issued server command: /fill -792 74 100 -683 80 13 minecraft:tnt
+[00:51:29] [Server thread/INFO]: Cheta_YT lost connection: Timed out
+[00:51:29] [Server thread/INFO]: Cheta_YT left the game
+[00:51:45] [User Authenticator #7/INFO]: UUID of player Cheta_YT is d62f9999-eb73-3833-a101-9c7b04270c86
+[00:51:47] [Server thread/INFO]: Cheta_YT joined the game
+[00:51:47] [Server thread/INFO]: Cheta_YT[/127.173.1.169:40863] logged in with entity id 173906 at ([world]-524.3243452929269, 87.38781117181564, -86.08831274074691)
+[00:51:49] [Server thread/INFO]: GrPatrixYT issued server command: /fill -792 74 100 -681 76 26 minecraft:tnt
+[00:51:49] [Server thread/INFO]: [GrPatrixYT: Successfully filled 25200 block(s)]
+[00:51:51] [Server thread/INFO]: xRoma47x issued server command: /tp GrPatrixYT
+[00:51:51] [Server thread/INFO]: [xRoma47x: Teleported xRoma47x to GrPatrixYT]
+[00:52:32] [Server thread/INFO]: Cheta_YT lost connection: Timed out
+[00:52:32] [Server thread/INFO]: Cheta_YT left the game
+[00:52:50] [Server thread/INFO]: Villager Villager['Villager'/47983, uuid='a4b4794c-3804-4322-918c-2a6e9959cbb1', l='ServerLevel[world]', x=-762.91, y=64.05, z=71.30, cpos=[-48, 4], tl=256155, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:52] [User Authenticator #8/INFO]: UUID of player Cheta_YT is d62f9999-eb73-3833-a101-9c7b04270c86
+[00:52:52] [Server thread/INFO]: Villager Villager['Librarian'/47952, uuid='b34cefe0-e8f8-42bf-a478-eb2c4f6a9fee', l='ServerLevel[world]', x=-750.99, y=67.05, z=70.59, cpos=[-47, 4], tl=174622, v=true] died, message: 'Librarian was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47973, uuid='e7e4afa4-88ff-4ded-b5e6-827c37b33278', l='ServerLevel[world]', x=-761.77, y=72.05, z=73.98, cpos=[-48, 4], tl=465318, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47987, uuid='cdfae6aa-540a-4390-84ff-20ed9dce5290', l='ServerLevel[world]', x=-762.94, y=72.05, z=72.33, cpos=[-48, 4], tl=134634, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47972, uuid='16ef7990-ff3c-48f4-840c-e8dcb408ae10', l='ServerLevel[world]', x=-762.31, y=72.05, z=71.23, cpos=[-48, 4], tl=120169, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47975, uuid='0db09a15-27d8-4698-8991-0f7a1764d6e7', l='ServerLevel[world]', x=-761.85, y=72.05, z=72.23, cpos=[-48, 4], tl=385867, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47978, uuid='9609ca25-24e8-46ec-ab21-8a26f35c8b56', l='ServerLevel[world]', x=-764.42, y=72.05, z=69.37, cpos=[-48, 4], tl=189817, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47977, uuid='905f115b-e949-4870-ad3c-2b83eca9e2ee', l='ServerLevel[world]', x=-765.15, y=72.05, z=72.33, cpos=[-48, 4], tl=408987, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47979, uuid='d907a044-4a49-40cc-9fcd-3ab8c031c7de', l='ServerLevel[world]', x=-765.45, y=72.05, z=73.02, cpos=[-48, 4], tl=265202, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47980, uuid='b736e208-5f74-4076-8ccb-8bf2aa1d7fc2', l='ServerLevel[world]', x=-763.31, y=72.05, z=71.34, cpos=[-48, 4], tl=356763, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47981, uuid='11797840-bf43-4ee1-84ce-a0f5c50b32e5', l='ServerLevel[world]', x=-761.49, y=72.05, z=73.08, cpos=[-48, 4], tl=316235, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47982, uuid='59fcf735-b015-4b52-b6df-ff7ce24758a3', l='ServerLevel[world]', x=-766.43, y=72.05, z=69.51, cpos=[-48, 4], tl=242143, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Villager Villager['Villager'/47984, uuid='dfe1bc48-1178-41ba-80e3-4b914a9892d9', l='ServerLevel[world]', x=-763.78, y=72.05, z=73.42, cpos=[-48, 4], tl=224827, v=true] died, message: 'Villager was blown up by GrPatrixYT'
+[00:52:53] [Server thread/INFO]: Cheta_YT joined the game
+[00:52:53] [Server thread/INFO]: Cheta_YT[/127.173.1.169:45161] logged in with entity id 199621 at ([world]-664.9378079844632, 336.38479591732374, 21.354863672788813)
+[00:53:01] [Server thread/INFO]: Cheta_YT issued server command: /tp grpatrixyt
+[00:53:01] [Server thread/INFO]: [Cheta_YT: Teleported Cheta_YT to GrPatrixYT]
+[00:53:10] [Server thread/INFO]: Cheta_YT issued server command: /effect clear @e
+[00:53:10] [Server thread/INFO]: [Cheta_YT: Removed every effect from 13344 targets]
+[00:53:25] [Server thread/INFO]: Villager Villager['Villager'/47976, uuid='e54b9d63-a549-4e24-9dce-ae7cba5eb656', l='ServerLevel[world]', x=-764.93, y=63.00, z=68.70, cpos=[-48, 4], tl=394512, v=true] died, message: 'Villager hit the ground too hard'
+[00:53:26] [Server thread/INFO]: Cheta_YT lost connection: Timed out
+[00:53:26] [Server thread/INFO]: Cheta_YT left the game

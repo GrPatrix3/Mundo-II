@@ -2,7 +2,7 @@ uuid: d62f9999-eb73-3833-a101-9c7b04270c86
 skills:
   auraskills/agility:
     level: 5
-    xp: 1025.9802
+    xp: 1031.2374
   auraskills/farming:
     level: 4
     xp: 789.6000000000084
@@ -55,6 +55,6 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 1.7403852987242452
+    xp: 6.997585298724245
   auraskills/first_strike:
     counter: 25

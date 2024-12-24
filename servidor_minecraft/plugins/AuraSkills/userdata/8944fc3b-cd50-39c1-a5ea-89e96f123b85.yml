@@ -29,7 +29,7 @@ skills:
     xp: 152.0
   auraskills/agility:
     level: 8
-    xp: 4115.641600000007
+    xp: 4147.431000000007
   auraskills/fighting:
     level: 12
     xp: 1862.0999999992462
@@ -60,6 +60,6 @@ trait_modifiers:
     value: 20.0
 ability_data:
   auraskills/xp_convert:
-    xp: 7.3612587181127935
+    xp: 9.150658718112794
   auraskills/first_strike:
     counter: 116
