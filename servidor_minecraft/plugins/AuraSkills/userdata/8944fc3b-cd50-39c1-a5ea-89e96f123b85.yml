@@ -20,19 +20,19 @@ skills:
     xp: 4371.5
   auraskills/defense:
     level: 7
-    xp: 2835.109374225152
+    xp: 2862.1093742251524
   auraskills/enchanting:
     level: 4
-    xp: 124.19999999999993
+    xp: 916.2
   auraskills/archery:
     level: 1
     xp: 152.0
   auraskills/agility:
     level: 8
-    xp: 3818.0994000000064
+    xp: 3894.790600000006
   auraskills/fighting:
-    level: 11
-    xp: 8313.899999999421
+    level: 12
+    xp: 1823.0999999992466
 mana: 38.0
 action_bar:
   idle: true
@@ -60,6 +60,6 @@ trait_modifiers:
     value: 20.0
 ability_data:
   auraskills/xp_convert:
-    xp: 27.49905871811267
+    xp: 2.390258718112797
   auraskills/first_strike:
-    counter: 112
+    counter: 114

@@ -24,3 +24,14 @@
 [00:11:03] [Server thread/INFO]: Cheta_YT issued server command: /tpa GrPatrixYT
 [00:11:05] [Server thread/INFO]: GrPatrixYT issued server command: /tpaccept
 [00:11:25] [Server thread/INFO]: xRoma47x issued server command: /sethome ksa
+[00:12:34] [Server thread/INFO]: GrPatrixYT issued server command: /tp Cheta_YT GrPatrixYT
+[00:12:34] [Server thread/INFO]: [GrPatrixYT: Teleported Cheta_YT to GrPatrixYT]
+[00:12:47] [Server thread/INFO]: Cheta_YT tried to swim in lava
+[00:12:54] [Server thread/INFO]: Cheta_YT issued server command: /back
+[00:13:20] [Server thread/INFO]: Cheta_YT has made the advancement [Hidden in the Depths]
+[00:16:14] [Server thread/INFO]: Cheta_YT has completed the challenge [Hot Tourist Destinations]
+[00:20:33] [Server thread/INFO]: xRoma47x lost connection: Disconnected
+[00:20:33] [Server thread/INFO]: xRoma47x left the game
+[00:20:38] [User Authenticator #3/INFO]: UUID of player xRoma47x is 8944fc3b-cd50-39c1-a5ea-89e96f123b85
+[00:20:39] [Server thread/INFO]: xRoma47x joined the game
+[00:20:39] [Server thread/INFO]: xRoma47x[/127.74.153.192:52195] logged in with entity id 39644 at ([world_the_end]96.37405981220648, 33.240161363839505, 12.745224389175242)
